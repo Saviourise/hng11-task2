@@ -120,7 +120,7 @@ const Checkout = () => {
             <div className="cvv">
               <input type="number" placeholder="MM/YY" />
               <div>
-                <input type="number" placeholder="CVC" />
+                <input type="number" placeholder="CVV" />
                 <CiCreditCard1 size={20} color="#827789" className="icon" />
               </div>
             </div>
